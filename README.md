@@ -1,9 +1,11 @@
 # svg2b2d
-基于svg2b2d库修改。适配了version blend2d 0.10.6
+base lib is svg2b2d 。 support for version blend2d 0.10.6
 
-1：增加svg背景色的透明
+1：svg backgroud color is Transparent
 
-2：增加了viewBox范围绘制
+2：add the viewBox support
+
+3: add cmakeLists.txt
 SVG parser, using blend2d as backend renderer
 
 
