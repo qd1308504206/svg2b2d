@@ -1,6 +1,8 @@
 # svg2b2d
 基于svg2b2d库修改。适配了version blend2d 0.10.6
+
 1：增加svg背景色的透明
+
 2：增加了viewBox范围绘制
 SVG parser, using blend2d as backend renderer
 
